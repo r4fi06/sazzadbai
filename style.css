@@ -1,0 +1,114 @@
+ body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.main{
+    width: 100%;
+    height: 500px;
+    background: black;
+}
+.laptop{
+    width: 50%;
+    height: 500px;
+    background-image: url(images/footer.png);
+    background-size: cover;
+    background-repeat: none;
+    float: left;
+}
+.lm{
+    width: 50%;
+    height: 500px;
+    background: yellow;
+    overflow: hidden;
+}
+.logo{
+    width: 100%;
+    height: 250px;
+    background: #342A51;
+    text-align: center;
+    align-items: center;
+}
+.logo img{
+    margin-top: 70px;
+    
+}
+.neel{
+    width: 50%;
+    height: 250px;
+    background: #7EC8CE;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.golapi{
+    width: 50%;
+    height: 250px;
+    background: #E38E99;
+    overflow: hidden;
+    text-align: center;
+    font-size: 25px;
+}
+.neel h2{
+    margin-top: 50px;
+    color: #ffffff;
+    
+}
+.golapi h2{
+    margin-top: 50px;
+    color: #ffffff;
+}
+.content{
+    text-align: center;
+    font-size: 35px;
+    
+}
+.content h2{
+    color: #342A51;
+    
+}
+span{
+    color: #FF5A76;
+}
+.left-img{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.moon{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.menu ul {
+    margin: 0;
+    padding: 0;
+    margin-left: 400px;
+    font-size: 35px;
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #7EC6CD;
+    padding: 16px;
+    display: inline-block;
+}
+.hire {
+    font-size: 25px;
+    text-align: center;
+    float: left;
+    margin-left: 55px;
+    margin-top: -12px;
+    margin-right: 90px;
+}
+.hire h3{
+    color: #342A51;
+    
+}
+.para {
+   margin-left: 40px;
+}
